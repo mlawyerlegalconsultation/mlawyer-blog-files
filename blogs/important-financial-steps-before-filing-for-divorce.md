@@ -1,8 +1,8 @@
 ---
-title: Important Financial Steps Before Filing for Divorce
+title: 10 Important Financial Steps Before Filing for Divorce
 slug: important-financial-steps-before-filing-for-divorce
 date: '2026-04-10T11:45:56.349Z'
-updatedAt: '2026-04-10T11:45:56.349Z'
+updatedAt: '2026-04-11T10:17:57.345Z'
 description: >-
   Before filing for divorce, it’s important to get your finances in order.
   Explore these 10 important steps to stay confident and financially secure.
@@ -19,7 +19,7 @@ cover: >-
   https://res.cloudinary.com/dpjerbp5z/image/upload/v1775821152/website-blog-images/Gemini_Generated_Image_8tf1jt8tf1jt8tf1_xtiqaa.png
 canonical: >-
   https://www.mlawyer.in/blogs/important-financial-steps-before-filing-for-divorce
-seoTitle: Important Financial Steps Before Filing for Divorce
+seoTitle: 10 Important Financial Steps Before Filing for Divorce
 seoDescription: >-
   Before filing for divorce, it’s important to get your finances in order.
   Explore these 10 important steps to stay confident and financially secure.
