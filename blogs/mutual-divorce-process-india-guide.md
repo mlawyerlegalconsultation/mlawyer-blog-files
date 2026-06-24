@@ -2,7 +2,7 @@
 title: 'Mutual Divorce Process in India: A Simple Guide for Couples | MLawyer'
 slug: mutual-divorce-process-india-guide
 date: '2026-06-24T04:57:29.342Z'
-updatedAt: '2026-06-24T04:57:29.342Z'
+updatedAt: '2026-06-24T06:33:01.650Z'
 description: >-
   Learn how mutual divorce works in India, the legal process, required
   documents, timeline, and benefits. Get expert legal guidance from MLawyer for
@@ -19,11 +19,11 @@ tags:
 cover: >-
   https://res.cloudinary.com/dpjerbp5z/image/upload/v1782276939/website-blog-images/ChatGPT_Image_Jun_24_2026_10_19_58_AM_bfhtcq.jpg
 canonical: https://www.mlawyer.in/blogs/mutual-divorce-process-india-guide
-seoTitle: 'Mutual Divorce Process in India: A Simple Guide for Couples'
+seoTitle: 'Mutual Divorce Process in India: A Simple Guide for Couples | MLawyer'
 seoDescription: >-
-  Marriage is an important relationship built on trust, understanding, and
-  shared goals. However, sometimes couples may find that continuing the marriage
-  is no lo
+  Learn how mutual divorce works in India, the legal process, required
+  documents, timeline, and benefits. Get expert legal guidance from MLawyer for
+  a smooth divorce process.
 seoKeywords:
   - divorce
   - mutual
