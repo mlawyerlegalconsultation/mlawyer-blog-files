@@ -358,5 +358,41 @@
       "visibility"
     ],
     "status": "published"
+  },
+  {
+    "title": "How to Create a Blog on Docker: A Step‑by‑Step Guide for Developers",
+    "slug": "how-to-create-a-blog-on-docker-a-stepbystep-guide-for-developers",
+    "date": "2026-08-20T11:06:12.549Z",
+    "updatedAt": "2026-08-20T11:06:12.549Z",
+    "updatedBy": "Santhosh Shanmugam",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c",
+    "description": "Learn how to containerize, deploy, and scale a modern blog using Docker. This comprehensive tutorial walks you through every stage—from setting up your environm",
+    "tags": [
+      "docker",
+      "blog",
+      "image",
+      "compose",
+      "container",
+      "build",
+      "nginx",
+      "push"
+    ],
+    "cover": "https://res.cloudinary.com/dpjerbp5z/image/upload/v1774708084/website-blog-images/banner_rxes69.png",
+    "canonical": "https://www.mlawyer.in/blog/how-to-create-a-blog-on-docker-a-stepbystep-guide-for-developers",
+    "seoTitle": "How to Create a Blog on Docker: A Step‑by‑Step Guide for Developers",
+    "seoDescription": "Learn how to containerize, deploy, and scale a modern blog using Docker. This comprehensive tutorial walks you through every stage—from setting up your environm",
+    "seoKeywords": [
+      "docker",
+      "blog",
+      "image",
+      "compose",
+      "container",
+      "build",
+      "nginx",
+      "push",
+      "dockerfile",
+      "production"
+    ],
+    "status": "published"
   }
 ]
