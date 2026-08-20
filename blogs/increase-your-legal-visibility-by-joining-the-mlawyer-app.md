@@ -2,7 +2,7 @@
 title: Increase Your Legal Visibility by Joining the MLawyer App
 slug: increase-your-legal-visibility-by-joining-the-mlawyer-app
 date: '2026-08-11T06:17:56.575Z'
-updatedAt: '2026-08-20T10:20:05.512Z'
+updatedAt: '2026-08-20T11:00:49.484Z'
 updatedBy: Abi Nandhan
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c
