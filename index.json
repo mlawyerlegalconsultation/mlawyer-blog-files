@@ -306,24 +306,6 @@
     "cover": "https://res.cloudinary.com/dpjerbp5z/image/upload/v1785908755/website-blog-images/mlawer-app_cwh0gs.webp"
   },
   {
-    "title": "Increase Your Legal Visibility by Joining the MLawyer App | Lawyer Registration in Chennai & Coimbatore",
-    "slug": "Increase-your-legal-visibility-by-joining-the-mlawyer-app",
-    "date": "2026-08-11T06:17:56.575Z",
-    "updatedAt": "2026-08-11T06:17:56.575Z",
-    "description": "Join the MLawyer App and increase your legal visibility. Connect with clients in Chennai, Coimbatore, and across India. Grow your legal practice with online consultations, professional profiles, and digital client enquiries.",
-    "tags": [
-      "legal",
-      "lawyers",
-      "mlawyer",
-      "clients",
-      "practice",
-      "online",
-      "professional",
-      "lawyer"
-    ],
-    "cover": "https://res.cloudinary.com/dpjerbp5z/image/upload/v1786428302/website-blog-images/mlawyerapp_ktbqzg.webp"
-  },
-  {
     "title": "10 Important Financial Steps Before Filing for Divorce",
     "slug": "important-financial-steps-before-filing-for-divorce",
     "date": "2026-04-10T11:45:56.349Z",
@@ -374,6 +356,42 @@
       "https",
       "files",
       "tsasd"
+    ],
+    "status": "published"
+  },
+  {
+    "title": "Increase Your Legal Visibility by Joining the MLawyer App",
+    "slug": "increase-your-legal-visibility-by-joining-the-mlawyer-app",
+    "date": "2026-08-11T06:17:56.575Z",
+    "updatedAt": "2026-08-20T10:20:05.512Z",
+    "updatedBy": "Abi Nandhan",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c",
+    "description": "The legal profession is becoming increasingly digital, with more clients searching online for trusted legal professionals before booking consultations. Whether ",
+    "tags": [
+      "legal",
+      "lawyers",
+      "mlawyer",
+      "clients",
+      "practice",
+      "online",
+      "professional",
+      "lawyer"
+    ],
+    "cover": "https://res.cloudinary.com/dpjerbp5z/image/upload/v1786428302/website-blog-images/mlawyerapp_ktbqzg.webp",
+    "canonical": "https://astrablogs.vercel.app//blog/increase-your-legal-visibility-by-joining-the-mlawyer-app",
+    "seoTitle": "Increase Your Legal Visibility by Joining the MLawyer App",
+    "seoDescription": "The legal profession is becoming increasingly digital, with more clients searching online for trusted legal professionals before booking consultations. Whether ",
+    "seoKeywords": [
+      "legal",
+      "lawyers",
+      "mlawyer",
+      "clients",
+      "practice",
+      "online",
+      "professional",
+      "lawyer",
+      "connect",
+      "visibility"
     ],
     "status": "published"
   }
